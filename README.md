@@ -13,10 +13,12 @@ Der Kern der Untersuchung mit den Daten der Hauptprobanden.
 * **`trial_exclusion.ipynb`**: Pipeline für den Datenausschluss.
 * **`effect.ipynb`**: Statistische Auswertung und finale Visualisierungen.
 * **`exploratory.ipynb`**: Zum Vergleich mit den Ergebnissen der Vorstudie + Validation der Anpassung des Studiendesigns.
+* **`comparison.ipynb`**: Vergleich der Effekte und Effektstärken zu den Vorstudien.
+
 
 
 ### 2. Pre-Study (`/preStudy`)
-Datenanalyse von Daten aus eine Vorgängerstudie.
+Datenanalyse von Daten aus einer Vorgängerstudie.
 * Enthält Skripte zur ersten Exploration (`exploratory.ipynb`) und zur Datenbereinigung (`clean.ipynb`).
 * **`effect.ipynb`**: Statistische Auswertung und finale Visualisierungen.
 
