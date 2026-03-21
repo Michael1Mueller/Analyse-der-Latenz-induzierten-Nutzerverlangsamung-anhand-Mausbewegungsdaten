@@ -21,7 +21,11 @@ Der Kern der Untersuchung mit den Daten der Hauptprobanden.
 Datenanalyse von Daten aus einer Vorgängerstudie.
 * Enthält Skripte zur ersten Exploration (`exploratory.ipynb`) und zur Datenbereinigung (`clean.ipynb`).
 * **`effect.ipynb`**: Statistische Auswertung und finale Visualisierungen.
+* **`mouseDataExpBCompl/`**:  Rohdaten des Maus-Trackings.
 
 ### 3. Latency System (`/latency_system`)
 * Messwerte zur Bestimmung der Ende-zu-Ende Verzögerung des Systems.
 * **`latency_system.ipynb`**: Visualisierung der Daten.
+
+### 4. Images (`/images`)
+* Alle erstellten Bilder, die in der Arbeit verwendet wurden.
